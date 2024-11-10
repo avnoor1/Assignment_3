@@ -1,0 +1,13 @@
+# NotebookLM Cloud Integration Evaluation
+
+## Overview
+This repository provides an evaluation of Google’s NotebookLM for potential integration within a university's educational framework. NotebookLM, an AI-powered tool, leverages machine learning to enhance students' knowledge retention, comprehension, and study organization.
+
+## Contents
+- **[Report](./Report/Task_2_Report.md)**: Detailed report evaluating the key functionalities of NotebookLM, the underlying machine learning principles, ethical considerations, and recommendations for integrating it into educational environments.
+- **Demonstrations**: Jupyter notebooks illustrating practical applications of NotebookLM functionalities, such as:
+  - **Content Summarization**: Summarizing textbooks, notes, or lecture content.
+  - **Q&A Generation**: Generating and answering questions based on uploaded academic content.
+  - **Content Exploration**: Contextual exploration of interconnected academic topics.
+  - **Note Organization**: Organizing study notes by themes or topics for easier reference.
+  - **Personalized Study Planning**: Creating customized study schedules based on content.
